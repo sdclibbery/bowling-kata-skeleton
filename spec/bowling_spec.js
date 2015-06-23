@@ -1,6 +1,8 @@
-describe('bowling', function () {
+var bowling = require('../bowling');
 
-  it('falls over', function () {
+describe('bowling scorer', function () {
+
+  it('placeholder...', function () {
     expect(true).toBe(false);
   });
 
