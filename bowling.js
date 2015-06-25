@@ -1,2 +1,2 @@
-module.sexports = {
+module.exports = {
 };
